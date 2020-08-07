@@ -6,4 +6,5 @@ Using machine learning to build a complementary sight for visually impaired.
 - Google Colaboratory (GPU)
 ## Testing
 1. clone this repository and upload to google drive
-2. 
+2. open the Jupyter Nootbook file with Google Colaboratory and 'Edit -> Nootbook Settings -> Hardware accelerator -> select GPU'
+3. 
